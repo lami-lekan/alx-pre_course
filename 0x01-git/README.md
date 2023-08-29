@@ -10,5 +10,7 @@ GitHub is a web-based platform that provides hosting for Git repositories. It ad
 collaboration features on top of Git, making it easier for multiple people to work
 together on projects.
 
+With this knowledge.
+
 Let's dive in.
 yaaahhh
